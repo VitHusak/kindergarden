@@ -1,0 +1,62 @@
+html{
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    margin-right: 1em;
+    font-weight: bold;
+}
+nav{
+    text-align: center;
+    background-color:#FFFFFF;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+.home{
+    background-image: url(/graphics/banner.jpg);
+    height: 40vh;
+    background-size: cover;
+    margin: 0;
+}
+h1{
+    border-bottom: 3px solid white;
+    width: fit-content;
+    color: white;
+    margin-left: 15vw;
+    padding-top: 13vh;
+}
+.B{
+    color:#FFE964;
+}
+.I{
+    color:#FF523D;
+}
+.K{
+    color:#223C88;
+}
+.mission{
+    background-color:#FFE964;
+    margin: 0;
+}
+h2{
+    margin: 0;
+    margin-left: 15vw;
+}
+.mission p, .about_us p{
+    margin-left: 15vw;
+    width:70%;
+
+
+}
+.miss{
+    border-color: blue;
+    }
+
+
+
+
